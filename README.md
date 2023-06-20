@@ -1,5 +1,4 @@
 # Students Dropout Prediction
-`Raden Dissa Shafira`
 **External Link:** [Model Deployment](https://huggingface.co/spaces/Dissashaf/student-prediction)
 ### Introduction
 Pada proyek ini akan dilakukan pembuatan model prediksi untuk mengklasifikasikan golongan mahasiswa yang berkemungkinan untuk lulus atau dikeluarkan dari institusi (*drop-out*). Dataset yang digunakan adalah dataset ["Predict Students' Dropout and Academic Success"](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention) yang mencakup berbagai faktor yang berkemungkinan dapat berpengaruh kepada kesuksesan mahasiswa; lingkungan, sosial ekonomi, serta kinerja akademik terkait dengan mahasiswa yang terdaftar di berbagai lembaga pendidikan tinggi diberbagai negara. Proyek ini dapat memberikan wawasan tentang faktor-faktor yang memengaruhi keberhasilan siswa dan dapat digunakan untuk memandu intervensi dan kebijakan--sehingga institusi dapat mengambil langkah-langkah yang tepat untuk mencegah mahasiswa putus sekolah.
